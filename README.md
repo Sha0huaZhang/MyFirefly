@@ -50,25 +50,25 @@ Ciallo～
 **But how could I escape?**  
 但如何才能得到解脱？  
 **No further hesitation**  
-从此不再纠结于
-**On those unanswered questions**  
-那些没有答案的问题
-**So now, I’ll make a dream unchained**  
-现在我解开梦的枷锁
-**Let my heart bravely spread the wings**  
-让我的心勇敢地振翅飞翔
-**Soaring past the night**  
-穿过深沉的黑夜
-**To trace the bright moonlight**  
-去追逐皎洁的月光
-**Let the clouds heal me of the stings**  
-让云朵治愈往日的痛楚
-**Gently wipe the sorrow off my life**  
-从生命中温柔地拭去忧伤
-**I dream**  
-我梦想着
-**I dream**  
-我梦想着
+从此不再纠结于    
+**On those unanswered questions**      
+那些没有答案的问题     
+**So now, I’ll make a dream unchained**     
+现在我解开梦的枷锁    
+**Let my heart bravely spread the wings**    
+让我的心勇敢地振翅飞翔    
+**Soaring past the night**    
+穿过深沉的黑夜    
+**To trace the bright moonlight**    
+去追逐皎洁的月光    
+**Let the clouds heal me of the stings**    
+让云朵治愈往日的痛楚    
+**Gently wipe the sorrow off my life**    
+从生命中温柔地拭去忧伤       
+**I dream**     
+我梦想着    
+**I dream**     
+我梦想着   
 
 # 来把她接回家！
 
