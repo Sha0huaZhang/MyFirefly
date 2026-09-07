@@ -22,6 +22,7 @@ Ciallo～
 
 ###   使一颗心免于哀伤 (If I Can Stop One Heart From Breaking)    
 
+演唱者：知更鸟 Singer：Robin    
 
 **Birds are born with no shackles**  
 若鸟儿生来并无镣铐    
