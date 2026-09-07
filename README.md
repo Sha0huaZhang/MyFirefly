@@ -2,7 +2,8 @@
 
 为什么没有 `uninstall.sh / leave_her.sh / go_away.sh / go_away_from_her.sh (et all.)` ? 因为爱上了她，就不要抛弃她。实在不忍心想要 `rm -rf ~/.local/Firefly` （或MacWave对应的其他目录），我也没办法     
 
-为什么安装到 `~/.local/` ？因为她只属于你一个人！（温馨提示：`~/.local` 只属于你一个人，其他用户不可见。而 `usr/lcoal` `/opt` 等目录所有用户都可见）     
+为什么安装到 `~/.local/` ？因为她只属于你一个人！（温馨提示：`~/.local` 只属于你一个人，其他用户不可见。而 `usr/lcoal` `/opt` 等目录所有用户都可见）         
+
 **好啦，尽情享受开拓之旅吧！**      
 
 一定好好好爱她哦～     
