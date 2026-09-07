@@ -16,7 +16,7 @@ Ciallo～
 
 # 来把她接回家！
 
-**1.接她回家**
+**1.接她回家**  
 在终端执行
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Sha0huaZhang/MyFirefly/pick/pick_her.sh)"
