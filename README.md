@@ -48,7 +48,7 @@ Ciallo～
 我梦想着   
 **What is meant by “miracle”**  
 那与我无关的词汇“奇迹”   
-**A word outside my days*?*  
+**A word outside my days?**     
 究竟隐藏着怎样的意义？  
 **Once again, repeat warbles**  
 我又一次重复啼啭    
